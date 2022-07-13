@@ -1,0 +1,5 @@
+{
+    "db_host":"localhost",
+    "db_port":27017,
+	"custom_config":"--oem 2 --psm 11 -l eng tessedit_char_whitelist=abcdefghijklmnopqrstuvwxyz1234567890"
+}

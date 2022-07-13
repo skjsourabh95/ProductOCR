@@ -1,0 +1,16 @@
+protein
+fat
+carbohydrate
+water
+linoleic
+acid
+vitamin
+niacin
+inositol
+cholestrol
+saturated
+saturates
+energy
+sugars
+fiber
+salt
